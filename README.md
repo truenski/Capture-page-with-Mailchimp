@@ -6,13 +6,8 @@
 ## 💻 Projeto Workshop
 
 O projeto é um site de captura de
-**Email** de possíveis clientes.
+Email de possíveis clientes.
 
-
-
-<h1 align="center">
-    <img alt="Booster" title="Booster" src="./images/workshop.png" width="500px" />
-</h1>
 
 ## Tecnologias
 
