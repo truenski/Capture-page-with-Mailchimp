@@ -8,6 +8,11 @@
 A capture page with separate header, footer and main content. Using the Mailchimp marketing automation platform, it captures the name, status, and email of the potential subscriber.
 
 
+<h1 align="center">
+    <img alt="Booster" title="Booster" src="./images/workshop.png" width="500px" />
+</h1>
+
+
 ## Techs
 
 - HTML
