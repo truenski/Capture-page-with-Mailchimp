@@ -3,36 +3,31 @@
 </h1>
 
 
-## 💻 Projeto Workshop
+## 💻 About
 
-O projeto é um site de captura de
-Email de possíveis clientes.
+A capture page with separate header, footer and main content. Using the Mailchimp marketing automation platform, it captures the name, status, and email of the potential subscriber.
 
 
-## Tecnologias
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## Techs
 
 - HTML
 - CSS
 - MAILCHIMP
 
 
-## Como Executar
-Para clonar e executar este site,
-execute os seguintes comando.
+## How to execute
 
-1. Faça um clone do repositório:
+1. clone this repository:
 
 ```sh
-  $ git clone https://github.com/Djaysson/workshop.git
+  $ git clone https://github.com/truenski/Capture-page-with-Mailchimp.git
 ```
-2. Executando a Aplicação:
+2. Run the app:
 
 ```sh
-# Abra a pasta
-  $ cd workshop
-  # abra o arquivo index.html
-  $ click no index.html
+# Open the file
+  $ cd Mailchimp
+  # Open the index.html file
+  $ click on index.html
 
 ```
